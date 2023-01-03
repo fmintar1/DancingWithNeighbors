@@ -1,0 +1,41 @@
+export enum Styles {
+  BACHATA = 'Bachata',
+
+  BALLET = 'Ballet',
+
+  BOLERO = 'Bolero',
+
+  CHACHA = 'ChaCha',
+
+  FOXTROT = 'Foxtrot',
+
+  HUSTLE = 'Hustle',
+
+  JITTERBUG = 'Jitterbug',
+
+  JIVE = 'Jive',
+
+  KIZOMBA = 'Kizomba',
+
+  MAMBO = 'Mambo',
+
+  MERENGUE = 'Merengue',
+
+  RUMBA = 'Rumba',
+
+  SALSA = 'Salsa',
+
+  SAMBA = 'Samba',
+
+  SLOWDANCE = 'Slowdance',
+
+  SWING = 'Swing',
+
+  TANGO = 'Tango',
+
+  TWIST = 'Twist',
+
+  WALTZ = 'Waltz',
+
+  ZOUK = 'Zouk',
+}
